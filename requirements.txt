@@ -1,0 +1,6 @@
+music21
+numpy
+imageio
+pillow
+pandas
+mido
